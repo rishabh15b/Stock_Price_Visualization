@@ -1,0 +1,8 @@
+Install all the mentioned libraries:
+1. investpy
+2. numpy
+3. pandas 
+4. matplotlib
+5. sklearn
+6. keras 
+7. math
